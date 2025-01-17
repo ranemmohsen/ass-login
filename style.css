@@ -1,0 +1,40 @@
+.background {
+    background-color: #24353f;
+    height: 100vh;
+}
+
+.log-in-layer {
+    /* background-color: #111e25; */
+    width: 58%;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+}
+
+.sign-up {
+
+    color: white;
+}
+
+.input-password {
+
+    background-color: transparent;
+
+}
+
+.input-email {
+
+
+    background-color: transparent;
+
+}
+
+.form-control {
+    border: 1px solid #ced4da;
+
+}
+
+.form-control:focus {
+    background-color: transparent;
+ 
+  
+}
